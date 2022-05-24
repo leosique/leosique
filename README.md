@@ -8,7 +8,7 @@
 <p>
   <img  height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
   <img  height="38" alingn="left" src="./public/images/c.png" alt="C" />
-  <img  height="38" alingn="left" src="./public/images/c#.png" alt="C#" />
+  <img  height="38" alingn="left" src="./public/images/cSharp.png" alt="C#" />
   <img  height="38" alingn="left" src="./public/images/java.png" alt="Java" />
   <img  height="38" alingn="left" src="./public/images/html.png" alt="Html" />
 </p>
